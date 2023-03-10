@@ -25,7 +25,7 @@ experience:
   - title: Postdoc Fellow in PolyU
     company: PolyU
     company_url: 'https://www.polyu.edu.hk/'
-    company_logo: cuhk
+    company_logo: polyu
     location: Hong Kong
     date_start: '2022-10-24'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Machine Learning Researcher in MSRA
     company: Microsoft Research Aisa
     company_url: 'https://www.msra.cn/'
-    company_logo: dji
+    company_logo: msra
     location: Shenzhen
     date_start: '2021-09-01'
     date_end: '2022-01-07'
