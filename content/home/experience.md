@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 90
 
 title: Experience
 subtitle:
@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Postdoc Fellow in PolyU
     company: PolyU
-    company_url: ''
+    company_url: 'https://www.polyu.edu.hk/'
     company_logo: cuhk
     location: Hong Kong
     date_start: '2022-10-24'
