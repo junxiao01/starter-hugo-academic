@@ -58,9 +58,9 @@ social:
   # - icon: youtube
   #   icon_pack: fab
   #   link: https://www.youtube.com/channel/UCCInBxO2CE1GrlkDKepGNEA
-   - icon: linkedin
-     icon_pack: fab
-     link: https://www.linkedin.com/in/gwansiu/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/gwansiu/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
