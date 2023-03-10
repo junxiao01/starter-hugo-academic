@@ -29,22 +29,20 @@ experience:
     location: Hong Kong
     date_start: '2022-10-24'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Developoing 12 DOF Indoor Painting Robot
-        * Control Framework Implementation
-        * Hardware Implementation
+    description: focus on research in image/video processing, high-dimensional signal processing, and machine learning.
 
   - title: Machine Learning Researcher in MSRA
     company: Microsoft Research Aisa
     company_url: 'https://www.msra.cn/'
     company_logo: msra
-    location: Shenzhen
+    location: Shanghai
     date_start: '2021-09-01'
     date_end: '2022-01-07'
-    description: deep spatial-temporal models for online video processing.
-
+    description: |2-
+        Responsibilities include:
+        
+        * The core member in the project ``online video restoration and enhancement system" is responsible for investigating deep spatial-temporal models (i.e., RNN, LSTM, Transformer, etc.) for real-time video processing.
+        * Proposed a novel knowledge transfer method based on the optimal transport theory. The performance of the lightweight models can be improved by 0.15 dB without increasing model complexity. The proposed method can significantly accelerate the running speed by 400%.
 design:
   columns: '2'
 ---
