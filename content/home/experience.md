@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 20
 
 title: Experience
 subtitle:
@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant of CUHK
-    company: CUHK
+  - title: Postdoc Fellow in PolyU
+    company: PolyU
     company_url: ''
     company_logo: cuhk
     location: Hong Kong
-    date_start: '2018-06-01'
-    date_end: '2019-10-01'
+    date_start: '2022-10-24'
+    date_end: 'present'
     description: |2-
         Responsibilities include:
         
@@ -36,14 +36,14 @@ experience:
         * Control Framework Implementation
         * Hardware Implementation
 
-  - title: Software Engineer of DJI
-    company: DJI
-    company_url: 'https://www.dji.com/'
+  - title: Machine Learning Researcher in MSRA
+    company: Microsoft Research Aisa
+    company_url: 'https://www.msra.cn/'
     company_logo: dji
     location: Shenzhen
-    date_start: '2016-05-01'
-    date_end: '2018-05-30'
-    description: Big data collection and analysis 
+    date_start: '2021-09-01'
+    date_end: '2022-01-07'
+    description: deep spatial-temporal models for online video processing.
 
 design:
   columns: '2'
