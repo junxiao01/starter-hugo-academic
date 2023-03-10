@@ -19,16 +19,16 @@ bio: My research interests include quadruped robot, bipedal robot and Reinforcem
 # Interests to show in About widget
 interests:
   - Image/Video Restoration and quality enhancement.
-  - High-dimensional signal processing
-  - Machine Learing (e.g., bayesian machine learning and robust machine learning)
+  - Signal processing methods in finance.
+  - Machine Learing and high-dimensional statistics.
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Electronic and Information Engineering (EIE)
+    - course: Ph.D. in Electronic and Information Engineering
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2018.09-2022.10
-    - course: M.S.C in Electronic and Information Engineering (EIE)
+    - course: M.S.C in Electronic and Information Engineering (with distinction)
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2016.09-2018.03  
     - course: BSc in Telecommunication Engineering
@@ -42,25 +42,25 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:lzyue@mae.cuhk.edu.hk'
+    link: 'mailto:jun.xiao@connect.polyu.hk'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=7mJEEhkAAAAJ&hl=zh-CN
+    link: https://scholar.google.com/citations?user=HN5in_IAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/linzhuyue
+    link: https://github.com/junxiao01
   - icon: zhihu
     icon_pack: fab
-    link: https://www.zhihu.com/people/yuexiaozhu
-  - icon: bilibili
-    icon_pack: fab
-    link: https://space.bilibili.com/349005938
-  - icon: youtube
-    icon_pack: fab
-    link: https://www.youtube.com/channel/UCCInBxO2CE1GrlkDKepGNEA
-#  - icon: linkedin
-#    icon_pack: fab
-#    link: https://www.linkedin.com/in/regen-yue-47b78518b/
+    link: https://www.zhihu.com/people/nan-man-boy
+  # - icon: bilibili
+  #   icon_pack: fab
+  #   link: https://space.bilibili.com/349005938
+  # - icon: youtube
+  #   icon_pack: fab
+  #   link: https://www.youtube.com/channel/UCCInBxO2CE1GrlkDKepGNEA
+   - icon: linkedin
+     icon_pack: fab
+     link: https://www.linkedin.com/in/gwansiu/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -76,8 +76,8 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoc fellow in the department of electronic and information engineering, the Hong Kong Polytechnic University. I received my PhD and MSc degree (with distinction) (supervised by Prof. Kenneth K. M. Lam) from the department of electronic and information engineering, the Hong Kong Polytechnic Unversity, in 2022 and 2018, respectively. Before coming to the Hong Kong Polytechnic Unversity, I obtained my BSc degree from the Guangdong University of Technology, supervised by Prof. Wing-Kuen Ling, in 2016.
+I am currently a postdoc fellow, supervised by [Prof. Kin-man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
 
-My research interests include machine learning (Bayesian and robust machine learning), image/video restoration and quality enhancement, and financial time series analysis. 
+My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitray and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LinZhuYue.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
