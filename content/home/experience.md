@@ -28,7 +28,7 @@ experience:
     company_logo: cuhk
     location: Hong Kong
     date_start: '2022-10-24'
-    date_end: 'present'
+    date_end: ''
     description: |2-
         Responsibilities include:
         
