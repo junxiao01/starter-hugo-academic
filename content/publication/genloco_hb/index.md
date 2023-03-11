@@ -1,21 +1,18 @@
 ---
-title: 'GenLoco: Generalized Locomotion Controllers for Quadrupedal Robots'
+title: 'Online Video Super-Resolution with Convolutional Kernel Bypass Grafts'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Gilbert Feng
-  - Hongbo Zhang
-  - Zhongyu Li
-  - Xue Bin Peng
-  - Bhuvan Basireddy
-  - Admin
-  - Zhitao Song
-  - Lizhi Yang
-  - Yunhui Liu
-  - Koushil Sreenath
-  - Sergey Levine
+  - Jun Xiao
+  - Xinyang Jiang
+  - Ningxin Zheng
+  - Huan Yang
+  - Yifan Yang
+  - Yuqing Yang
+  - Dongsheng Li
+  - Kin-Man Lam
 
 # Author notes (optional)
 author_notes:
@@ -36,12 +33,12 @@ publishDate: '2022-09-13T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *CoRL 2022*
-publication_short: In *CoRL*
+publication: In *IEEE Transaction on Multimedia 2023*
+publication_short: In *TMM*
 
-abstract: Recent years have seen a surge in commercially-available and affordable quadrupedal robots, with many of these platforms being actively used in research and industry. As the availability of legged robots grows, so does the need for controllers that enable these robots to perform useful skills. However, most learning-based frameworks for controller development focus on training robot-specific controllers, a process that needs to be repeated for every new robot. In this work, we introduce a framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots. Our framework synthesizes general-purpose locomotion controllers that can be deployed on a large variety of quadrupedal robots with similar morphologies. We present a simple but effective morphology randomization method that procedurally generates a diverse set of simulated robots for training. We show that by training a controller on this large set of simulated robots, our models acquire more general control strategies that can be directly transferred to novel simulated and real-world robots with diverse morphologies, which were not observed during training.
-# Summary. An optional shortened abstract.
-summary: A framework for training generalized locomotion (GenLoco) controllers for quadrupedal robots.
+abstract: Deep learning-based models have achieved remarkable performance in video super-resolution (VSR) in recent years, but most of these models are less applicable to online video applications. These methods solely consider the distortion quality and ignore crucial requirements for online applications, e.g., low latency and low model complexity. In this paper, we focus on online video transmission in which VSR algorithms are required to generate high-resolution video sequences frame by frame in real time. To address such challenges, we propose an extremely low-latency VSR algorithm based on a novel kernel knowledge transfer method, named the convolutional kernel bypass graft (CKBG). First, we design a lightweight network structure that does not require future frames as inputs and saves extra time for caching these frames. Then, our proposed CKBG method enhances this lightweight base model by bypassing the original network with “kernel grafts”, which are extra convolutional kernels containing the prior knowledge of the external pretrained image SR models. During the testing phase, we further accelerate the grafted multibranch network by converting it into a simple single-path structure. The experimental results show that our proposed method can process online video sequences up to 110 FPS with very low model complexity and competitive SR performance.
+
+summary: An lightweight RNN models for online video super-resolution. 
 tags: []
 
 # Display this page in the Featured widget?
@@ -52,14 +49,14 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/abs/2209.05309'
-url_code: 'https://github.com/HybridRobotics/GenLoco'
+url_pdf: 'https://doi.org/10.1109/TMM.2023.3243615'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://youtu.be/5QUs32MjNu4'
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
