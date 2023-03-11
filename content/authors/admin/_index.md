@@ -78,7 +78,7 @@ highlight_name: true
 
 I am currently a postdoc fellow, supervised by [Prof. Kin-man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
 
-My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitray and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
+My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitrage and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
 
 I am currently looking for other full-time oportunities in industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.   
 
