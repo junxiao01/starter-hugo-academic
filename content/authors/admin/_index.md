@@ -80,4 +80,4 @@ I am currently a postdoc fellow, supervised by [Prof. Kin-man Lam](http://www.ei
 
 My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitray and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/LinZhuYue.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_JunXiao.pdf" "newtab" >}}Simple CV{{< /staticref >}}.
