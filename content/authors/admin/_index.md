@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Electronic and Information Engineering
+    - course: Ph.D. in Computer Science
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2018.09-2022.10
     - course: M.S.C in Electronic and Information Engineering (with distinction)
