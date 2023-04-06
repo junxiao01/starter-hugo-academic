@@ -30,7 +30,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *25th International Conference on Pattern Recognition (ICPR), 2020*
-publication_short: In *ICPR*
+publication_short: In ICPR
 
 abstract: Multi-task learning is an effective learning strategy for deep-learning-based facial expression recognition tasks. However, most existing methods take into limited consideration the feature selection, when transferring information between different tasks, which may lead to task interference when training the multi-task networks. To address this problem, we propose a novel selective feature-sharing method, and establish a multi-task network for facial expression recognition and facial expression synthesis. The proposed method can effectively transfer beneficial features between different tasks, while filtering out useless and harmful information. Moreover, we employ the facial expression synthesis task to enlarge and balance the training dataset to further enhance the generalization ability of the proposed method. Experimental results show that the proposed method achieves state-of-the-art performance on those commonly used facial expression recognition benchmarks, which makes it a potential solution to real-world facial expression recognition problems.
 # Summary. An optional shortened abstract.

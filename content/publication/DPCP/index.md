@@ -31,7 +31,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Image Processing (ICIP), 2019*
-publication_short: In *ICIP*
+publication_short: In ICIP
 
 abstract: Blind super-resolution (SR) of blurry and noisy low-resolution (LR) images is still a challenging problem in single image super-resolution (SISR). The performance of most existing convolutional neural network (CNN)-based models is inevitably degraded when LR images are corrupted by both blur and noise. For those blind SR methods based on kernel estimation, accurate estimation is barely attained under complex degradations and this gives rise to poor-quality results. To address these problems, we propose a deep progressive network under a probabilistic framework and a novel up-sampling method for blind super-resolution with multiple degradations, which effectively utilizes image priors across scales. Experimental results show that the proposed method achieves promising performance on images with multiple degradations.
 # Summary. An optional shortened abstract.

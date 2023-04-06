@@ -33,8 +33,8 @@ publishDate: '2023-01-13T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transaction on Multimedia 2023*
-publication_short: In *TMM*
+publication: In IEEE Transaction on Multimedia 2023
+publication_short: In IEEE Transaction on Multimedia (TMM)
 
 abstract: Deep learning-based models have achieved remarkable performance in video super-resolution (VSR) in recent years, but most of these models are less applicable to online video applications. These methods solely consider the distortion quality and ignore crucial requirements for online applications, e.g., low latency and low model complexity. In this paper, we focus on online video transmission in which VSR algorithms are required to generate high-resolution video sequences frame by frame in real time. To address such challenges, we propose an extremely low-latency VSR algorithm based on a novel kernel knowledge transfer method, named the convolutional kernel bypass graft (CKBG). First, we design a lightweight network structure that does not require future frames as inputs and saves extra time for caching these frames. Then, our proposed CKBG method enhances this lightweight base model by bypassing the original network with “kernel grafts”, which are extra convolutional kernels containing the prior knowledge of the external pretrained image SR models. During the testing phase, we further accelerate the grafted multibranch network by converting it into a simple single-path structure. The experimental results show that our proposed method can process online video sequences up to 110 FPS with very low model complexity and competitive SR performance.
 

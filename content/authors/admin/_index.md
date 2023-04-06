@@ -28,13 +28,13 @@ education:
     - course: Ph.D. in Computer Science
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2018.09-2022.10
-    - course: M.S.C in Electronic and Information Engineering (with distinction)
+    - course: M.S.c in Electronic and Information Engineering (with distinction)
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2016.09-2018.03  
     - course: BSc in Telecommunication Engineering
       institution: Guangdong University of Technology
       year: 2012.09-2016.06
-
+      
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -76,10 +76,12 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoc fellow, supervised by [Prof. Kin-man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
+I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
 
 My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitrage and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
 
-I am currently looking for other full-time oportunities in industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.   
+I am currently looking for full-time oportunities in academic and industry.
+
+<!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_JunXiao.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -29,7 +29,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2021*
-publication_short: In *ICASSP*
+publication_short: In ICASSP
 
 abstract: Despite the great success achieved by deep convolutional neural network (CNN)-based models in the single image super-resolution (SISR) problem, the requirement of high computational complexity, accompanied with the deep CNN models, makes it less applicable in embedded devices, e.g., mobile phones. Recently, deep light-weight models for the SISR problem have been in demand for industrial applications, and have caught the attention of many researchers. The strategies of cascading several small networks and multi-path feature extraction have shown their effectiveness in most of the existing methods. In this paper, by considering the correlation and redundancy of feature maps, we propose a feature information mining network to efficiently investigate the features, for the SISR problem. Experiment results show that our proposed model achieves the best balance between the performance and the model size, compared with other competitive deep SR models.
 # Summary. An optional shortened abstract.

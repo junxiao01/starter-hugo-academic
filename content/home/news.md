@@ -2,15 +2,15 @@
 # An instance of the Featured widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featured
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
-title: Featured Publications
+title: News
 subtitle: ''
 
 content:
@@ -33,5 +33,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 1
 ---
+
+1. We have a paper accepted by ICASSP 2023.

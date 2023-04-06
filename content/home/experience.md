@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 25
+weight: 30
 
 title: Experience
 subtitle:
@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoc Fellow in PolyU
-    company: PolyU
+  - title: Postdoc Fellow (the research talent hub scheme)
+    company: The Hong Kong Polytechnic University
     company_url: 'https://www.polyu.edu.hk/'
     company_logo: polyu
     location: Hong Kong

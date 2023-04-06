@@ -34,6 +34,6 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: Card
+  view: List
   columns: '2'
 ---

@@ -7,9 +7,9 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 25
 
-title: Selected Publications
+title: Publications
 subtitle: ''
 
 content:
@@ -33,7 +33,7 @@ content:
 
 design:
   # Choose a view for the listings:
-  view: 2
+  view: Citation
   # columns: '2'
 ---
 

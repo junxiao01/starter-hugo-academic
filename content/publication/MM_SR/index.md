@@ -32,7 +32,7 @@ publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
 publication: In *AMM Conference on Multimedia, 2021*
-publication_short: In *ACM-MM*
+publication_short: In ACM-MM
 
 abstract: Deep learning-based models have achieved unprecedented performance in single image super-resolution (SISR). However, existing deep learning-based models usually require high computational complexity to generate high-quality images, which limits their applications in edge devices, e.g., mobile phones. To address this issue, we propose a dynamic, channel-agnostic filtering method in this paper. The proposed method not only adaptively generates convolutional kernels based on the local information of each position, but also can significantly reduce the cost of computing the inter-channel redundancy. Based on this, we further propose a simple, yet effective, deep lightweight model for SISR. Experiment results show that our proposed model outperforms other state-of-the-art deep lightweight SISR models, leading to the best trade-off between the performance and the number of model parameters.
 # Summary. An optional shortened abstract.
