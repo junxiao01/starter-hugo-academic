@@ -18,14 +18,18 @@ bio: My research interests include computer vision, machine learning, and signal
 
 # Interests to show in About widget
 interests:
-  - Image/Video Restoration and quality enhancement.
+  - Image/Video Processing
+  - Image/Video Restoration
+  - Learning in 3D Vision
+  - Bayesian Learning
+  - Robust Learning
+  - Generative Models
   - Signal processing methods in finance.
-  - Machine Learing and high-dimensional statistics.
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Computer Science
+    - course: Ph.D. in Electronic and Information Engineering
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2018.09-2022.10
     - course: M.S.c in Electronic and Information Engineering (with distinction)
@@ -78,9 +82,8 @@ highlight_name: true
 
 I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
 
-My research interests include image restoration (e.g., image/video super-resolution, image/video denoising, high-dynamic range imaging, etc.), image/video synthesis and quality enhancement, high-dimensional signal processing in finance (e.g., statistical arbitrage and financial index enhancement), and machine learning (e.g., bayesian machine learning and robust machine learning).
+My research interests include image/video restoration (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), and signal processing in finance (e.g., statistical arbitrage and index tracking).
 
-I am currently looking for full-time oportunities in academic and industry.
 
 <!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
 
