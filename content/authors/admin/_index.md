@@ -18,18 +18,15 @@ bio: My research interests include computer vision, machine learning, and signal
 
 # Interests to show in About widget
 interests:
-  - Image/Video Processing
-  - Image/Video Restoration
-  - Learning in 3D Vision
-  - Bayesian Learning
-  - Robust Learning
-  - Generative Models
+  - Image/Video Processing, Restoration, and Enhancement
+  - Machine Learning (probabilistic learning, robust learning, etc.)
+  - Deep Generative Models
   - Signal processing methods in finance.
 
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D. in Electronic and Information Engineering
+    - course: Ph.D., Department of Electronic and Information Engineering
       institution: The Hong Kong Polytechnic University (PolyU)
       year: 2018.09-2022.10
     - course: M.S.c in Electronic and Information Engineering (with distinction)
@@ -80,9 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of electronic and information engineering, the Hong Kong Polytechnic University. 
+I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of Electrical and Electronic Engineering, the Hong Kong Polytechnic University. 
 
-My research interests include image/video restoration (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), and signal processing in finance (e.g., statistical arbitrage and index tracking).
+My research interests include image/video processing, restoration and enhancement (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), deep generative models, and signal processing in finance (e.g., statistical arbitrage and index tracking).
 
 
 <!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
