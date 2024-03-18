@@ -29,9 +29,9 @@ experience:
     location: Hong Kong
     date_start: '2022-10-24'
     date_end: ''
-    description: focus on research in image/video processing, high-dimensional signal processing, and machine learning.
+    description: focus on research in image/video processing, high-dimensional signal processing, and diffusion models.
 
-  - title: Machine Learning Researcher in MSRA
+  - title: Computer Vision Researcher in MSRA
     company: Microsoft Research Aisa
     company_url: 'https://www.msra.cn/'
     company_logo: msra

@@ -37,9 +37,14 @@ design:
 ---
 
 **Journal Reviwer**
-- [Pattern Recognition](https://www.sciencedirect.com/journal/pattern-recognition)
+- IEEE Transactions on Circuits and Systems for Video Technology.
+- Knowledge-based Systems
+- Information Fusion
+- Pattern Recognition
 
 **Conference Reviwer**
-- ACM-MM 2023, WACV 2023
-- CVPR 2022, ECCV 2022, ACM-MM 2022, ACCV 2022, VCIP 2022.
-- VCIP 2020
+- ECCV: 2024
+- ACM-MM: 2022, 2023, 2024
+- WACV: 2023 
+- ACCV 2022
+- VCIP 2020, 2022

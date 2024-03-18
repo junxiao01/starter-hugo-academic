@@ -79,7 +79,9 @@ highlight_name: true
 
 I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of Electrical and Electronic Engineering, the Hong Kong Polytechnic University. 
 
-My research interests include image/video processing, restoration and enhancement (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), deep generative models, and signal processing in finance (e.g., statistical arbitrage and index tracking).
+My research interests include image/video processing, restoration and enhancement (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), machine learning (e.g., bayesian machine learning, domain adaptation and generalization, robustness, etc.), deep generative models (e.g., diffusion models and flow matching), and AIGC-related topics. 
+
+signal processing in finance (e.g., statistical arbitrage and index tracking).
 
 
 <!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
