@@ -39,7 +39,11 @@ design:
 1. **Jun Xiao**, Zihang Lyu, Cong Zhang, Yakun Ju, Changjian Shui, and Kin-Man Lam. ``Towards Progressive Multi-Frequency Representation for Image Warping
 ", in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2024.
 
-2. I co-organize the workshop "[Photography Measurement and Imaging in the Deep Learning Era](https://ieee-smart-world-congress.org/program/uic2023/workshops)" in the 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2023)
+2. **Jun Xiao**, Qian Ye, Tianshan Liu, Cong Zhang, and Kin-Man Lam, ``Deep Progressive Feature Aggregation Network for Multi-frame High Dynamic Range Imaging", Neurocomputing, 2024.
+
+3. **Jun Xiao**, Qian Ye, Rui Zhao, Kin-Man Lam, and Kao Wan, ``Deep Multi-scale Feature Mixture Model for Image Super-resolution with Multiple-Focal-length Degradation", Signal Processing: Image Communication, 2024.
+
+4. I co-organize the workshop "[Photography Measurement and Imaging in the Deep Learning Era](https://ieee-smart-world-congress.org/program/uic2023/workshops)" in the 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2023)
 
 
 
