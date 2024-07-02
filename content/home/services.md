@@ -43,8 +43,11 @@ design:
 - Pattern Recognition
 
 **Conference Reviwer**
-- ECCV: 2024
-- ACM-MM: 2022, 2023, 2024
-- WACV: 2023 
-- ACCV 2022
-- VCIP 2020, 2022
+- Neural Information Processing Systems (NeurlPS): 2024
+- European Conference on Computer Vision (ECCV): 2024
+- ACM Conference on Multimedia (ACM-MM): 2022, 2023, 2024
+- Asia Conference on Computer Vision (ACCV): 2022
+- Winter Conference on Applications of Computer Vision (WACV): 2022, 2024, 2025
+- IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP): 2023
+- IEEE International Conference on Image Processing (ICIP): 2023, 2024
+- IEEE International Conference on Visual Communications and Image Processing (VCIP): 2020, 2022.
