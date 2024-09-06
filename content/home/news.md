@@ -53,9 +53,9 @@ design:
 
 8. Zhi-Song Liu, Li-Wen Wang, **Jun Xiao**, Vicky Kalogeiton, ``Bridging Text and Image for Artist Style Transfer via Contrastive Learning", in Proceedings of the **European Conference on Computer Vision Workshop (ECCV-W)**, 2024.
 
-9. Our team ``POLYU-AISP: Fast Sequential Motion Diffusion for Real-time Video Super-resolution" obtain **the 2nd winner** in the competition of Efficient Video Super-Resolution in the ECCV AIM workshop, 2024.
+9. Our team ``POLYU-AISP" proposed a real-time video super-resolution method "Fast Sequential Motion Diffusion for Real-time Video Super-resolution" and obtained **the 2nd winner** in the competition of Efficient Video Super-Resolution in the ECCV AIM workshop, 2024.
 
-10. Our team obtain **the 3rd winnder** in the Sparse Neural Rendering Challenging in the ECCV AIM workshop, 2024.
+10. Our team proposed ``Enhanced SparseNeRF" and obtained **the 3rd winnder** in the Sparse Neural Rendering Challenging in the ECCV AIM workshop, 2024.
 
 11. I co-organize the workshop "[Photography Measurement and Imaging in the Deep Learning Era](https://ieee-smart-world-congress.org/program/uic2023/workshops)" in the 20th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2023)
 
