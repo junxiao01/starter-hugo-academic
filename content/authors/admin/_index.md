@@ -6,10 +6,12 @@ title: Jun Xiao
 superuser: true
 
 # Role/position/tagline
-role: Postdoct Fellow
+role: Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Zoom
+    url: https://zoom.us/
   - name: The Hong Kong Polytechnic University (PolyU)
     url: https://www.polyu.edu.hk/
 
@@ -77,11 +79,24 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoc fellow, supervised by [Prof. Kin-Man Lam](http://www.eie.polyu.edu.hk/~enkmlam/), in the department of Electrical and Electronic Engineering, the Hong Kong Polytechnic University. 
+## Short Bio
 
-My research interests include image/video processing, restoration and enhancement (e.g., image/video super-resolution, image/video denoising, high dynamic range imaging, etc.), robust machine learning (e.g., domain adaptation and generalization.), deep generative models (e.g., diffusion models and flow matching), and AIGC-related topics.
+I am currently a Researcher and Engineer in video processing team at Zoom, based in Singapore. Before joining Zoom, I was a Postdoctoral Fellow in the Department of Electrical and Electronic Engineering at The Hong Kong Polytechnic University, supervised by Prof. Kin-Man Lam. 
 
-**(News): I am actively seeking new full-time opportunities.** I am currently authorized to work in Mainland China, Hong Kong, and Canada (pending OWP Visa approval). I am also open to considering opportunities in other locations, provided that a working visa sponsorship is available.
+## Research Interests
+
+My research interests include:
+
+* **AIGC and post-training:** image/video generation, preference optimization, and step distillation.
+* **Low-level vision processing:** image/video super-resolution, image/video denoising, and high dynamic range imaging.
+* **3D vision:** sparse-view synthesis.
+
+I am actively seeking opportunities for research collaboration. Please feel free to reach out via email at [jun.xiao@connect.polyu.hk](mailto:jun.xiao@connect.polyu.hk), WeChat, or WhatsApp.
+
+## Work Authorization
+
+I am currently authorized to work in Mainland China, Hong Kong, the United Kingdom under the HPI visa, and Canada, pending approval of my Open Work Permit (OWP). I am also open to opportunities in the United States, provided that O-1 visa sponsorship is available.
+
 
 <!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
 
