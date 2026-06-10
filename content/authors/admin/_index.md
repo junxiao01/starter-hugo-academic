@@ -21,14 +21,14 @@ bio: My research interests include computer vision, machine learning, and signal
 # Education to show in About widget
 education:
   courses:
-    - course: Ph.D., Department of Electronic and Information Engineering
-      institution: The Hong Kong Polytechnic University (PolyU)
+    - course: Ph.D., The Hong Kong Polytechnic University (PolyU)
+      # institution: Department of Electronic and Information Engineering
       year: 2018.09 -- 2022.10
-    - course: M.S.c in Electronic and Information Engineering (with distinction)
-      institution: The Hong Kong Polytechnic University (PolyU)
+    - course: M.S.c (with distinction), The Hong Kong Polytechnic University (PolyU)
+      # institution: Department of Electronic and Information Engineering
       year: 2016.09 -- 2018.03  
-    - course: BSc in Telecommunication Engineering
-      institution: Guangdong University of Technology
+    - course: BSc, Guangdong University of Technology
+      # institution: School of Information Engineering
       year: 2012.09 -- 2016.06
       
 # Social/Academic Networking
@@ -76,9 +76,7 @@ I am currently a Researcher and Engineer in video processing team at Zoom, based
 
 ## Research Interests
 
-My research interests include:
-
-* **AIGC(post-training):** image/video generation, world model, efficient generative models, and preference optimization.
+* **AIGC (post-training):** image/video generation, world model, efficient generative models, and preference optimization.
 * **Low-level vision processing:** image/video super-resolution, image/video denoising, and high dynamic range imaging.
 * **3D vision:** generative-based 3D reconstruction
 
