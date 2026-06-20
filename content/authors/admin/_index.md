@@ -84,9 +84,13 @@ I am actively seeking opportunities for research collaboration. Please feel free
 
 ## Work Experience
 
-* **Research Engineer**, Zoom Video Communications — Singapore *(2024 – Present)*. Video Processing Team.
-* **Postdoctoral Fellow**, The Hong Kong Polytechnic University — Hong Kong SAR *(2022 – 2024)*. Department of Electrical and Electronic Engineering, with Prof. Kin-Man Lam.
-* **Research Intern**, Microsoft Research Asia — Beijing *(2021 – 2022)*. Video super-resolution and restoration.
+<table style="border:none;border-collapse:collapse;width:100%;margin-bottom:0;background:transparent;">
+<tbody>
+<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2024 – Present</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Engineer</strong>, Zoom Video Communications, Singapore<br><small>Video Processing Team</small></td></tr>
+<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2022 – 2024</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Postdoctoral Fellow</strong>, The Hong Kong Polytechnic University, Hong Kong SAR<br><small>Department of Electrical and Electronic Engineering, with Prof. Kin-Man Lam</small></td></tr>
+<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2021 – 2022</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Intern</strong>, Microsoft Research Asia, Beijing<br><small>Video super-resolution and restoration</small></td></tr>
+</tbody>
+</table>
 
 ## Work Authorization
 
