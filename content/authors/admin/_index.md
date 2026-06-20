@@ -86,9 +86,9 @@ I am actively seeking opportunities for research collaboration. Please feel free
 
 <table style="border:none;border-collapse:collapse;width:100%;margin-bottom:0;background:transparent;">
 <tbody>
-<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2024 – Present</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Engineer</strong>, Zoom Video Communications, Singapore<br><small>Video Processing Team</small></td></tr>
+<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2024 – Present</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Engineer</strong>, Zoom Video Communications, Singapore<br><small><strong>Project 1</strong>: Logo-driven image generation — subject-consistency score 0.855; generation within 2s at 1280×720.<br><strong>Project 2</strong>: Text-driven style transfer for human images — human-ID consistency 0.85; style consistency 0.63; generation within 1s at 512×512.</small></td></tr>
 <tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2022 – 2024</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Postdoctoral Fellow</strong>, The Hong Kong Polytechnic University, Hong Kong SAR<br><small>Department of Electrical and Electronic Engineering, with Prof. Kin-Man Lam</small></td></tr>
-<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2021 – 2022</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Intern</strong>, Microsoft Research Asia, Beijing<br><small>Video super-resolution and restoration</small></td></tr>
+<tr style="border:none;background:transparent;"><td style="border:none;padding:.4rem 1.1rem .4rem 0;white-space:nowrap;vertical-align:top;"><strong>2021 – 2022</strong></td><td style="border:none;padding:.4rem 0;vertical-align:top;"><strong>Research Intern</strong>, Microsoft Research Asia, Shanghai<br><small>Video super-resolution and restoration</small></td></tr>
 </tbody>
 </table>
 
