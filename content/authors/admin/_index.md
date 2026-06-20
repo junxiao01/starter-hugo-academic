@@ -80,7 +80,7 @@ I am currently a Researcher and Engineer in Zoom, based in Singapore. Before joi
 * **Low-level vision processing:** image/video super-resolution, image/video denoising, and high dynamic range imaging.
 * **3D vision:** generative-based 3D reconstruction
 
-I am actively seeking opportunities for research collaboration. Please feel free to reach out via email at [jun.xiao@connect.polyu.hk](mailto:jun.xiao@connect.polyu.hk), WeChat, or WhatsApp.
+I am actively seeking opportunities for research collaboration. Please feel free to reach out via email at [jun.xiao@connect.polyu.hk](mailto:jun.xiao@connect.polyu.hk).
 
 ## Work Experience
 
