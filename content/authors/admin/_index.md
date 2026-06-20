@@ -92,14 +92,14 @@ I am actively seeking opportunities for research collaboration. Please feel free
 </tbody>
 </table>
 
-## Work Authorization
+<!-- ## Work Authorization
 
 I am currently authorized to work in Mainland China, Hong Kong, and Singapore. 
 
 **I am also open to opportunities in the United States, provided that O-1 visa sponsorship is available.**
 
 
-<!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  #the United Kingdom under the HPI visa, and Canada, pending approval of my Open Work Permit (OWP). 
+industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  #the United Kingdom under the HPI visa, and Canada, pending approval of my Open Work Permit (OWP). 
 -->  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_JunXiao.pdf" "newtab" >}}CV{{< /staticref >}}.
