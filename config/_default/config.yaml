@@ -42,6 +42,24 @@ permalinks:
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
 disableAliases: true
+# Netlify `_headers`/`_redirects` output formats (normally from the
+# wowchemy-plugin-netlify module; defined here because that module's config
+# does not merge reliably from the local module cache). GitHub Pages ignores them.
+mediaTypes:
+  text/netlify:
+    delimiter: ''
+    suffixes: ['']
+outputFormats:
+  headers:
+    baseName: _headers
+    isPlainText: true
+    mediaType: text/netlify
+    notAlternative: true
+  redirects:
+    baseName: _redirects
+    isPlainText: true
+    mediaType: text/netlify
+    notAlternative: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]

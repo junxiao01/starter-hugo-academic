@@ -82,11 +82,17 @@ I am currently a Researcher and Engineer in video processing team at Zoom, based
 
 I am actively seeking opportunities for research collaboration. Please feel free to reach out via email at [jun.xiao@connect.polyu.hk](mailto:jun.xiao@connect.polyu.hk), WeChat, or WhatsApp.
 
+## Work Experience
+
+* **Research Engineer**, Zoom Video Communications — Singapore *(2024 – Present)*. Video Processing Team.
+* **Postdoctoral Fellow**, The Hong Kong Polytechnic University — Hong Kong SAR *(2022 – 2024)*. Department of Electrical and Electronic Engineering, with Prof. Kin-Man Lam.
+* **Research Intern**, Microsoft Research Asia — Beijing *(2021 – 2022)*. Video super-resolution and restoration.
+
 ## Work Authorization
 
 I am currently authorized to work in Mainland China, Hong Kong, the United Kingdom under the HPI visa, and Canada, pending approval of my Open Work Permit (OWP). 
 
-**I am also open to opportunities in the United States, provided that O-1 visa sponsorship is available.**
+<!-- **I am also open to opportunities in the United States, provided that O-1 visa sponsorship is available.** -->
 
 
 <!-- industry, including machine learning researcher (computer vision), data scientist, quantitive researcher in finance.  -->  
